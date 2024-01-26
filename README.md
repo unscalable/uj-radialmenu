@@ -11,7 +11,7 @@ This is a customized version of `qb-radialmenu`, meticulously crafted to emulate
 
 ## Installation
 
-1. Copy the `pj-radialmenu` folder into the `[qb]` directory within your resources.
+1. Copy the `uj-radialmenu` folder into the `[qb]` directory within your resources.
 
 2. Move `qb-radio` into the `[voice]` folder within your resources.
 
