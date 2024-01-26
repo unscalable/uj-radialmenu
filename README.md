@@ -1,4 +1,4 @@
-# pj-radialmenu
+# uj-radialmenu
 
 This is a customized version of `qb-radialmenu`, meticulously crafted to emulate NoPixel's radial menu. Numerous adjustments have been implemented to achieve the desired aesthetic, along with the integration of additional features into the radial menu. Enjoy an enhanced experience!
 
