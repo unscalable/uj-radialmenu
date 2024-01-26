@@ -17,10 +17,18 @@ This is a modified version of qb-radialmenu to resemble NoPixel's radial menu. V
 
 **Step 3:** Ensure the following line is present in your server's `server.cfg` file:
 ```plaintext
-<p> ensure [qb] <p>
 
-Step 4: Ensure the following line is present in your server's server.cfg file:
-ensure [voice]
+4. Ensure the following line is present in your server's `server.cfg` file:
+
+    ```plaintext
+    ensure [voice]
+    ```
+
+5. Additionally, make sure to include the line:
+
+    ```plaintext
+    ensure [qb] <p>
+    ```
 
 
 License
