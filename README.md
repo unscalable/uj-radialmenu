@@ -20,12 +20,10 @@ This is a customized version of `qb-radialmenu`, meticulously crafted to emulate
     ```plaintext
     ensure [voice]
     ```
-
-4. Additionally, make sure to include the line:
-
-    ```plaintext
+     ```plaintext
     ensure [qb]
     ```
+
 
 ## License
 
