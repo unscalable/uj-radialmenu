@@ -1,6 +1,6 @@
 # pj-radialmenu
 
-This is a modified version of qb-radialmenu designed to resemble NoPixel's radial menu. Various edits have been made to achieve the desired look, and additional features have been incorporated into the radial menu. Enjoy!
+This is a customized version of `qb-radialmenu`, meticulously crafted to emulate NoPixel's radial menu. Numerous adjustments have been implemented to achieve the desired aesthetic, along with the integration of additional features into the radial menu. Enjoy an enhanced experience!
 
 ## Dependencies
 
@@ -11,9 +11,9 @@ This is a modified version of qb-radialmenu designed to resemble NoPixel's radia
 
 ## Installation
 
-1. Drag the `pj-radialmenu` folder into the `[qb]` folder in your resources.
+1. Copy the `pj-radialmenu` folder into the `[qb]` directory within your resources.
 
-2. Drag `qb-radio` into the `[voice]` folder in your resources.
+2. Move `qb-radio` into the `[voice]` folder within your resources.
 
 3. Ensure the following line is present in your server's `server.cfg` file:
 
@@ -29,7 +29,7 @@ This is a modified version of qb-radialmenu designed to resemble NoPixel's radia
 
 ## License
 
-QBCore Framework
+**QBCore Framework**
 Copyright (C) 2024 unscalabler
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
