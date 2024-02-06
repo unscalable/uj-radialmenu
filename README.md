@@ -1,6 +1,6 @@
-# pj-radialmenu
+# uj-radialmenu
 
-This is a modified version of qb-radialmenu to resemble NoPixel's radial menu. Various edits have been made to achieve the desired look, and additional features have been incorporated into the radial menu. Enjoy!
+This is a customized version of `qb-radialmenu`, meticulously crafted to emulate NoPixel's radial menu. Numerous adjustments have been implemented to achieve the desired aesthetic, along with the integration of additional features into the radial menu. Enjoy an enhanced experience!
 
 ## Dependencies
 
@@ -11,31 +11,27 @@ This is a modified version of qb-radialmenu to resemble NoPixel's radial menu. V
 
 ## Installation
 
-**Step 1:** Drag the `pj-radialmenu` folder into the `[qb]` folder in your resources.
+1. Copy the `uj-radialmenu` folder into the `[qb]` directory within your resources.
 
-**Step 2:** Drag `qb-radio` into the `[voice]` folder in your resources.
+2. Move `qb-radio` into the `[voice]` folder within your resources.
 
-**Step 3:** Ensure the following line is present in your server's `server.cfg` file:
-```plaintext
-<p> ensure [qb] <p>
+3. Ensure the following line is present in your server's `server.cfg` file:
 
-Step 4: Ensure the following line is present in your server's server.cfg file:
-ensure [voice]
+    ```plaintext
+    ensure [voice]
+    ```
+     ```plaintext
+    ensure [qb]
+    ```
 
 
-License
-QBCore Framework
-Copyright (C) 2024 unscalabler
+## License
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+**QBCore Framework**
+Copyright (C) 2024unscalable
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
