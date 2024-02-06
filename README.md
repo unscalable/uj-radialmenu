@@ -5,7 +5,7 @@ This is a customized version of `qb-radialmenu`, meticulously crafted to emulate
 ## Dependencies
 
 - [qb-core](https://github.com/qbcore-framework/qb-core)
-- [veh-control](https://github.com/Manvaril/vehcontrol)
+- [veh-control](https://github.com/vipexv/v-vehControl)
 - [dpemotes](https://github.com/andristum/dpemotes)
 - [qb-radio-v2](https://github.com/trclassic92/qb-radio-v2)
 
